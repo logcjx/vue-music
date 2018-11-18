@@ -31,3 +31,5 @@ use: `vue` `vuex` `mint-ui` `pug` `stylus`
     const apiRoutes = express.Router()
     require('path/to/api/index')(apiRoutes)
 -->
+
+i am a fucking hot fix hehe.
